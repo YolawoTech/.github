@@ -7,7 +7,7 @@
 <details><summary>Third-party dependencies (tick only if this PR adds or upgrades one)</summary>
 
 - [ ] This PR adds or upgrades a third-party dependency (if not, ignore the rest)
-- [ ] Licence checked against the [wiki licence policy](https://github.com/YolawoTech/wiki/blob/main/operations/open-source-license-compliance.md#licence-policy): [SPDX id] — allowed for [distributed | server-only | test-only]
+- [ ] License checked against the [wiki license policy](https://github.com/YolawoTech/wiki/blob/main/operations/open-source-license-compliance.md#license-policy): [SPDX id] — allowed for [distributed | server-only | test-only]
 - [ ] Maintained: release in the last 12 months, no open critical advisory, more than one maintainer or a backing org
 - [ ] Alternatives considered: not already covered by Spring / Angular / an existing dependency / ~50 lines of our own code
 - [ ] Frontend only: bundle impact checked (`--stats-json`), and it is tree-shakeable or lazy-loaded
