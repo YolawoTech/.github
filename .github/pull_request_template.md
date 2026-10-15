@@ -1,6 +1,6 @@
 <!-- 2–4 sentences: what was wrong or what this adds, what changed, where it stands. The diff shows the lines; say what the reviewer cannot read off it. -->
 
-Closes YolawoTech/projects#
+<!-- Link what this PR resolves, if anything: `Closes YolawoTech/projects#N` (board ticket), `Closes YolawoTech/bugs#N` (bug or debt item) or a Trello card URL. -->
 
 <!-- Optional, only when true: ## Unresolved (open findings or a decision for the reviewer) · ## Manual steps (exact command) · ## Not in here (surprising missing scope) · a screenshot for UI changes -->
 
